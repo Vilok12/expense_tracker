@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "REPLACE_THIS_WITH_YOUR_RENDER_BACKEND_API_URL/api/:path*"
+      "destination": "https://wealthflow-api-9ykx.onrender.com"
     },
     {
       "source": "/(.*)",
